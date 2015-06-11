@@ -1,0 +1,15 @@
+print_line 				= 0
+print_word_num 			= 0
+ignore_long_sentence	= 1
+max_word_num			= 25
+print_parse_time		= 0
+print_indent_tree		= 0
+dfs_indent				= 0
+print_node_list			= 0
+print_sentence_type		= 0
+show_nltk_tree			= 0
+print_npvp				= 0
+print_standard_answer	= 1
+print_vb				= 0
+print_empty_line		= 0
+print_total_time		= 0
